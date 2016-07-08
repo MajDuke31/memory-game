@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Memory Game</string>
+    <string name="correct_guesses_text">Correct:</string>
+    <string name="incorrect_guesses_text">Incorrect:</string>
+</resources>
